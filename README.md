@@ -5,3 +5,5 @@ Bored by the academic approach of most data structures and algorithms courses? T
 This repository contains Programming assignments and quizes for the course.
 
 Instructor: [Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
+
+Slides: [https://slides.com/bgando/intro-to-algorithms](https://slides.com/bgando/intro-to-algorithms)
